@@ -17,6 +17,7 @@ class Car {
     brand = ''
     km = 0
     motorisation = '' //Essence Diesel etc....
+    finition = '' //Cuir, etc....
 
     constructor(c, m) {
         this.color = c
